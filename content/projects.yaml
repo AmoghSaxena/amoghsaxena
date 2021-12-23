@@ -1,0 +1,32 @@
+- name: IPTV Feed Checker
+  url: https://github.com/AmoghSaxena/IPTV-Stream-Verification
+  description: The program is simple and used to check the working of IPTV Channels.
+  status: live
+  tags:
+    - Python
+    - Django
+    - Pandas
+  icon: github
+  image: images/iptv.jpg
+
+- name: Online Pharmacy Shop
+  url: https://github.com/AmoghSaxena/Online-Pharmacy-Shop/tree/master/
+  description: Created an Online Medical Store from where one can purchase medicines at discounted price.
+  status: live
+  tags:
+    - Python
+    - Django
+    - HTML
+    - JavaScript
+    - CSS
+  icon: github
+  image: images/pharmacy.jpg
+
+- name: Number-Recognition
+  url: https://github.com/AmoghSaxena/Number-Recognition
+  description: I wrote a python script using the OpenCV framework to detect digits from the data set.
+  status: live
+  tags:
+    - OpenCV
+    - Python
+  icon: github

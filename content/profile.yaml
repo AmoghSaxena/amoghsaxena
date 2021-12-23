@@ -1,0 +1,30 @@
+- profile:
+  initials: AS
+  name: Amogh Saxena
+  profession: Software Developer
+  image: images/profile_rexter.jpg
+  location: Indore, MP, India
+  relocation: true
+  company: Digivalet
+  for_hire: true
+  focus: Learning Cloud Computing
+  focus_url: https://education.oracle.com/learn/oracle-cloud-infrastructure/pPillar_640/?source=:ow:occ:sb::::ConsolePromoBadgeOct2021&intcmp=:ow:occ:sb::::ConsolePromoBadgeOct2021
+  about: |
+    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    
+    Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.
+
+# Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+  skills:
+    - Linux
+    - Python
+    - Docker
+  tools:
+    - Jenkins
+    - VSCode
+    - Rundeck
+  budget:
+    currency: ₹
+    min: 10
+    max: 300
+    default: 10
