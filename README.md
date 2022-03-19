@@ -7,7 +7,7 @@
 ```csharp
 amoghsaxena@github
 -------------------------
-OS: Arch Linux x86_64
+OS: Ubuntu 18.04.2 LTS x86_64
 Shell: GNU bash 5.0.17
 Pronouns: He/Him
 Location: Indore, MP, India
@@ -23,23 +23,20 @@ Discord: REXTER#0001
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <img alt="#474342" src="https://via.placeholder.com/15/fdfdfd/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/3e474a/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/282c34/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/47b353/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/393e46/000000?text=+" width="25" height="20" />
 </p>
 
 
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1a9fe0&size=29&multiline=true&width=700&lines=Welcome+To+Amogh+Saxena's+GitHub+Profile)](https://git.io/typing-svg)
 
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
 
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
-
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
+* 🧑🏻‍💻 Tech enthusiast, designer, an open-source contributor & a gamer. 
 
 * 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
 
-* 💻 Currently learning [React](https://reactjs.org/) and [Next.js](https://nextjs.org/)
+* 💻 Currently learning [Kubernetes](https://kubernetes.io/) and [AWS](https://aws.amazon.com/)
 
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+When I am not coding, you'll find me playing games or at my desk doing freelancing. Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/amoghsaxena/">
@@ -54,13 +51,12 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 </p>
 
 ---
-
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=GNUBash&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,10 +64,10 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ### 🧩 Libraries & Framework
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-white?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -79,11 +75,12 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Pycharn](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Pycharn](https://img.shields.io/badge/Pycharm-black?style=for-the-badge&logo=pycharm&logoColor=21c12c)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=Portainer&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?&style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-D22128?&style=for-the-badge&logo=apache&logoColor=white)
@@ -91,10 +88,10 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 ### 💻 Workspace
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CentOS](https://img.shields.io/badge/Centos-blue?style=for-the-badge&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-purple?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![CentOS](https://img.shields.io/badge/Centos-black?style=for-the-badge&logo=centos&logoColor=pink)
 ![Ubuntu](https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-008080?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=0078D6)
 
 
 ## 📈 Stats
@@ -131,7 +128,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
+![Amogh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github)
 
 ---
 
