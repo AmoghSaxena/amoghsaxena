@@ -113,22 +113,21 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
+<a href="https://github.com/AmoghSaxena/Ubuntu-Shortcut-Creator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsaxena&repo=Ubuntu-Shortcut-Creator&theme=onedark&hide_border=true" />
 </a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
+<a href="https://github.com/AmoghSaxena/OnScreen-Ticker-and-Promotions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsaxena&repo=OnScreen-Ticker-and-Promotions&theme=onedark&hide_border=true" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
+<a href="https://github.com/AmoghSaxena/IPTV-Stream-Verification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsaxena&repo=IPTV-Stream-Verification&theme=onedark&hide_border=true" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
+<a href="https://github.com/AmoghSaxena/Online-Pharmacy-Shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsaxena&repo=Online-Pharmacy-Shop&theme=onedark&hide_border=true" />
 </a>
-
 
 </p>
 
