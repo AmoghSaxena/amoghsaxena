@@ -128,7 +128,7 @@ When I am not coding, you'll find me playing games or at my desk doing freelanci
 
 </p>
 
-![Amogh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github)
+[//]: # (![Amogh's GitHub activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github&#41;)
 
 ---
 
