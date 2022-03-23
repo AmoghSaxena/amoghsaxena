@@ -17,8 +17,8 @@ Languages: Python, Bash,
 Learning: Cloud Computing, Docker,
           Ansible, Jenkins
 Hobbies: Gaming, Playing Guitar, Singing
-Commits: 44
-Stars: 0
+Commits: 54
+Stars: 12
 Discord: REXTER#0001
 ```
 <p align="left">
