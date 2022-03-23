@@ -128,10 +128,11 @@ When I am not coding, you'll find me playing games or at my desk doing freelanci
 
 </p>
 
-[//]: # (![Amogh's GitHub activity graph]&#40;https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github&#41;)
+![Amogh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github)
 
 ---
 
 <p align="center">
-   <img src="https://github.com/AmoghSaxena/amoghsaxena/blob/main/content/images/github-contribution-grid-snake.svg" alt="snake">
+
+[//]: # (   <img src="https://github.com/AmoghSaxena/amoghsaxena/blob/main/content/images/github-contribution-grid-snake.svg" alt="snake">)
 </p>
