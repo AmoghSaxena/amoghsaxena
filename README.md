@@ -98,7 +98,7 @@ When I am not coding, you'll find me playing games or at my desk doing freelanci
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amoghsaxena&count_private=true&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://rex-git-streaks.herokuapp.com/?user=amoghsaxena&hide_border=true&theme=onedark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghsaxena&hide_border=true&theme=onedark" />
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=amoghsaxena&theme=onedark&hide_border=true" />  
 </p>
 
@@ -129,7 +129,7 @@ When I am not coding, you'll find me playing games or at my desk doing freelanci
 
 </p>
 
-![Amogh's GitHub activity graph](https://rex-git-activity.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github)
+![Amogh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github)
 
 ---
 
