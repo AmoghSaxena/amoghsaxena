@@ -21,10 +21,14 @@ Commits: 54
 Stars: 12
 Discord: REXTER#0001
 ```
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/fdfdfd/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/3e474a/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/282c34/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/47b353/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/393e46/000000?text=+" width="25" height="20" />
-</p>
+
+[//]: # (<p align="left">)
+
+[//]: # (  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;)
+
+[//]: # (  <img alt="#474342" src="https://via.placeholder.com/15/fdfdfd/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/3e474a/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/282c34/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/47b353/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/393e46/000000?text=+" width="25" height="20" />)
+
+[//]: # (</p>)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1a9fe0&size=29&multiline=true&width=700&lines=Welcome+To+Amogh+Saxena's+GitHub+Profile)](https://git.io/typing-svg)
