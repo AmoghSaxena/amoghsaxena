@@ -1,60 +1,34 @@
-```shell
-> neofetch
-```
 
-<img align="left" src="https://i.ibb.co/7jGvs3d/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bas.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+[![Header](content/images/header.png "Header")](https://amoghsaxena.com/)
 
-```shell
-amoghsaxena@github
--------------------------
-OS: Ubuntu 18.04.2 LTS x86_64
-Shell: GNU bash 5.0.17
-Pronouns: He/Him
-Location: Indore, MP, India
-Frameworks: React
-Languages: Python, Bash,
-           JavaScript, HTML, CSS
-Learning: Cloud Computing, Docker,
-          Ansible, Jenkins
-Hobbies: Gaming, Playing Guitar, Singing
-Commits: 54
-Stars: 12
-Discord: REXTER#0001
-```
+<div align="center">
+<h3>Visitor count</h3>
 
-[//]: # (<p align="left">)
+<img src="https://profile-counter.glitch.me/AmoghSaxena/count.svg" />
+</div>
 
-[//]: # (  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;)
+<h2>Hey 👋, I'm <a href="https://amoghsaxena.com/">Amogh aka Rexter</a></h2>
+<p>I'm currently pursuing my masters from <strong><a href="https://www.strath.ac.uk/">University of Strathclyde</a></strong> and formerly at <strong><a href="https://www.digivalet.com/">Digivalet</a></strong> as a <strong>Software Engineer</strong>. Currently based in Glasgow(UK). I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p><a href="https://amoghsaxena.com"><img src="https://img.shields.io/badge/-amoghsaxena.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://amoghsaxena.com" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/AmoghSaxena/"><img src="https://img.shields.io/badge/-@AmoghSaxena-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/AmoghSaxena/" alt="LinkedIn Badge"></a></p>
+<p>🍌 Don't forget to get some Potassium 🍌</p>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/AmoghSaxena/ticker-v2">TickerV2</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/AmoghSaxena">Github</a>.</li>
+<!-- <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
+<li>💬 Ping me about <strong>python, react, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://files.rexter.co.uk/documents/wp-content/uploads/2024/09/AmoghResume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: 你会说印地语吗？。</li>
+</ul>
 
-[//]: # (  <img alt="#474342" src="https://via.placeholder.com/15/fdfdfd/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/3e474a/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/282c34/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/47b353/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/393e46/000000?text=+" width="25" height="20" />)
+<!-- <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p> -->
+<br>
+<br>
+<br>
+<div align="center">
 
-[//]: # (</p>)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1a9fe0&size=29&multiline=true&width=700&lines=Welcome+To+Amogh+Saxena's+GitHub+Profile)](https://git.io/typing-svg)
-
-
-* 🧑🏻‍💻 Tech enthusiast, designer, an open-source contributor & a gamer. 
-
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
-
-* 💻 Currently learning [Kubernetes](https://kubernetes.io/) and [AWS](https://aws.amazon.com/)
-
-When I am not coding, you'll find me playing games or at my desk doing freelancing. Find out more about me & feel free to connect with me here:
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/amoghsaxena/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://discord.io/RealmX">
-		<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-	</a>
-	<a href="https://instagram.com/amoghsaxena">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-	</a>
-</p>
-
----
 ## ⚡ Tech Stack
 
 ### 🚀 Languages
@@ -111,10 +85,9 @@ When I am not coding, you'll find me playing games or at my desk doing freelanci
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghsaxena&layout=compact&theme=onedark&hide_border=true" />
 
 ---
-
 ## 📕 Pinned Repositories
 
-<p align="center">
+<p>
 <a href="https://github.com/AmoghSaxena/Ubuntu-Shortcut-Creator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amoghsaxena&repo=Ubuntu-Shortcut-Creator&theme=onedark&hide_border=true" />
 </a>
@@ -132,12 +105,34 @@ When I am not coding, you'll find me playing games or at my desk doing freelanci
 </a>
 
 </p>
+<!-- 
+<h2>🚀 Some Tools I Use</h2>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" alt="Bash" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/grafana/grafana-original.svg" alt="grafana" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" alt="django" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+</p> -->
+</div>
 
-![Amogh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amoghsaxena&hide_border=true&theme=github)
-
----
-
-<p align="center">
-
-[//]: # (   <img src="https://github.com/AmoghSaxena/amoghsaxena/blob/main/content/images/github-contribution-grid-snake.svg" alt="snake">)
-</p>
+<!-- HTML -->
+<div>
+<h4>Random programming jokes (Refresh the page to get New Joke)</h4>
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=vue" alt="Jokes Card" />
+</div>
